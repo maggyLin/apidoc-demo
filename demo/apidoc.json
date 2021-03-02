@@ -1,0 +1,10 @@
+{
+  "name": "demo", 
+  "version": "1.0.0",
+  "description": "這是一個簡單的apidoc的demo <br> ",
+  "title": "demo",
+  "url" : "http://commonurl",
+  "template":{
+    "withGenerator":false
+  }
+}

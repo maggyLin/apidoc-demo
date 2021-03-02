@@ -1,0 +1,19 @@
+define({
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "這是一個簡單的apidoc的demo <br> ",
+  "title": "demo",
+  "url": "http://commonurl",
+  "template": {
+    "withGenerator": false
+  },
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2021-03-02T06:27:40.349Z",
+    "url": "http://apidocjs.com",
+    "version": "0.19.0"
+  }
+});
